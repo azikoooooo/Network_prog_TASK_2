@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Mahmud",
+    "password": "123",
+    "remoteendpoint": "10.1.10.1:61362",
+    "isOnline": false
+  },
+  {
+    "username": "Leyla",
+    "password": "123",
+    "remoteendpoint": "10.1.10.1:61361",
+    "isOnline": false
+  },
+  {
+    "username": "Murad",
+    "password": "123",
+    "remoteendpoint": "-",
+    "isOnline": false
+  },
+  {
+    "username": "Aysel",
+    "password": "123",
+    "remoteendpoint": "-",
+    "isOnline": false
+  }
+]
